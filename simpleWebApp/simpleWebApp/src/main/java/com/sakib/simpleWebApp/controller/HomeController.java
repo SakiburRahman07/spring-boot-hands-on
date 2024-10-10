@@ -1,4 +1,4 @@
-package com.sakib.simpleWebApp;
+package com.sakib.simpleWebApp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
